@@ -1,3 +1,3 @@
 # PLEASE CHECK OUT MY ONLINE PORTFOLIO
 # greatdecipher.github.io
-# created using HTML AND CSS
+# created using Javascript, HTML AND CSS
